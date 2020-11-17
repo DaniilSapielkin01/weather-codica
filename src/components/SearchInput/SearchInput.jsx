@@ -34,9 +34,7 @@ let SearchInput = ({ handleSubmit }) => {
         name="searchCityInput"
         type="text"
       />
-      <Button variant="contained" color="primary" onClick={handleSubmit}>
-        Primary
-      </Button>
+      <Button variant="contained" color="primary" onClick={handleSubmit}>Search</Button>              
     </form>
   );
 };
