@@ -1,0 +1,42 @@
+.cardWrapper {
+  position: relative;
+  height: 100vh;
+}
+
+.card {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 50px;
+  border-radius: 5px;
+  box-shadow: 0px 0px 20px 5px #3ea1fd8c;
+  padding: 15px;
+}
+.info {
+  margin-bottom: 15px 0;
+}
+.cardInfo {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  margin: 15px 0;
+  line-height: 0.9em;
+  color: rgb(49, 49, 49);
+  border-bottom: 1px dotted rgba(119, 119, 119, 0.4);
+}
+.imgInfo {
+  display: flex;
+  align-items: center;
+}
+.imgInfo img {
+  margin-right: 20px;
+}
+.cardHeader {
+  display: flex;
+  align-items: center;
+  color: #009fff;
+}
+.cardHeader p {
+  padding-top: 5px;
+  margin-left: 15px;
+}

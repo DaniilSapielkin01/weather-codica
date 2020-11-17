@@ -1,0 +1,11 @@
+.card {
+  padding: 15px;
+  color: #232323;
+}
+.smallTemp {
+  font-size: 12px;
+}
+.description { 
+  font-size: 14px;
+  font-weight: 500;
+}
