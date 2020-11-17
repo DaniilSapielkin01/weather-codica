@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/weather-codice/static/css/main.50bc0167.chunk.css",
-    "main.js": "/weather-codice/static/js/main.e7bf0896.chunk.js",
-    "main.js.map": "/weather-codice/static/js/main.e7bf0896.chunk.js.map",
-    "runtime-main.js": "/weather-codice/static/js/runtime-main.85cdcc51.js",
-    "runtime-main.js.map": "/weather-codice/static/js/runtime-main.85cdcc51.js.map",
-    "static/js/2.eb9e6c05.chunk.js": "/weather-codice/static/js/2.eb9e6c05.chunk.js",
-    "static/js/2.eb9e6c05.chunk.js.map": "/weather-codice/static/js/2.eb9e6c05.chunk.js.map",
-    "index.html": "/weather-codice/index.html",
-    "static/css/main.50bc0167.chunk.css.map": "/weather-codice/static/css/main.50bc0167.chunk.css.map",
-    "static/js/2.eb9e6c05.chunk.js.LICENSE.txt": "/weather-codice/static/js/2.eb9e6c05.chunk.js.LICENSE.txt"
+    "main.css": "/weather-codica/static/css/main.50bc0167.chunk.css",
+    "main.js": "/weather-codica/static/js/main.7873edf7.chunk.js",
+    "main.js.map": "/weather-codica/static/js/main.7873edf7.chunk.js.map",
+    "runtime-main.js": "/weather-codica/static/js/runtime-main.835e1d7c.js",
+    "runtime-main.js.map": "/weather-codica/static/js/runtime-main.835e1d7c.js.map",
+    "static/js/2.eb9e6c05.chunk.js": "/weather-codica/static/js/2.eb9e6c05.chunk.js",
+    "static/js/2.eb9e6c05.chunk.js.map": "/weather-codica/static/js/2.eb9e6c05.chunk.js.map",
+    "index.html": "/weather-codica/index.html",
+    "static/css/main.50bc0167.chunk.css.map": "/weather-codica/static/css/main.50bc0167.chunk.css.map",
+    "static/js/2.eb9e6c05.chunk.js.LICENSE.txt": "/weather-codica/static/js/2.eb9e6c05.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.85cdcc51.js",
+    "static/js/runtime-main.835e1d7c.js",
     "static/js/2.eb9e6c05.chunk.js",
     "static/css/main.50bc0167.chunk.css",
-    "static/js/main.e7bf0896.chunk.js"
+    "static/js/main.7873edf7.chunk.js"
   ]
 }
