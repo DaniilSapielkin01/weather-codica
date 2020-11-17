@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/weather-codica/static/css/main.50bc0167.chunk.css",
-    "main.js": "/weather-codica/static/js/main.7873edf7.chunk.js",
-    "main.js.map": "/weather-codica/static/js/main.7873edf7.chunk.js.map",
+    "main.js": "/weather-codica/static/js/main.912ce2be.chunk.js",
+    "main.js.map": "/weather-codica/static/js/main.912ce2be.chunk.js.map",
     "runtime-main.js": "/weather-codica/static/js/runtime-main.835e1d7c.js",
     "runtime-main.js.map": "/weather-codica/static/js/runtime-main.835e1d7c.js.map",
     "static/js/2.eb9e6c05.chunk.js": "/weather-codica/static/js/2.eb9e6c05.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.835e1d7c.js",
     "static/js/2.eb9e6c05.chunk.js",
     "static/css/main.50bc0167.chunk.css",
-    "static/js/main.7873edf7.chunk.js"
+    "static/js/main.912ce2be.chunk.js"
   ]
 }
